@@ -77,7 +77,7 @@ const About = () => {
                             </div>
                             <div>
                             <h4 className="text-gray-600">Amazing page examples</h4>
-                            </div>
+                            </div>0
                         </div>
                         </li>
                         <li className="py-2">

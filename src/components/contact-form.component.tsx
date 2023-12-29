@@ -45,8 +45,8 @@ const ContactForm = () => {
                                 Message
                             </label
                             ><textarea
-                                rows="4"
-                                cols="80"
+                                rows={4}
+                                cols={80}
                                 className="px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:shadow-outline w-full"
                                 placeholder="Type a message..."
                             ></textarea>
